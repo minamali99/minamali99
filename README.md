@@ -124,7 +124,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31pl5ssut74ztcq34xlqobqsrb7i&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31pl5ssut74ztcq34xlqobqsrb7i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" /></div>  
 
 <br/>  
 
@@ -144,3 +144,5 @@ If things goes well, this section should automatically be replaced by a list of 
             </a></div>
 <br />
 
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
